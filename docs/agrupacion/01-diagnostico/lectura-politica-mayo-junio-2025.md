@@ -1,62 +1,57 @@
-# Resumen de Actividades Políticas y Recomendaciones
-
-- message_id: `bf611263-6d1e-4d55-9d1c-d43536fd35a5`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: template
-- confidence: 4
-- summary_tags: organización | política | estrategia | comunicación | recomendaciones
-- topics: dinámica organizativa | actividades políticas | recomendaciones tácticas
-
-## Summary annotation
+---
+title: "Resumen de Actividades Políticas y Recomendaciones"
+description: "Análisis de la dinámica organizativa y recomendaciones tácticas para mejorar la efectividad de una agrupación política, basado en la lectura de tramos especí..."
+tags:
+  - organización
+  - política
+  - estrategia
+  - comunicación
+  - recomendaciones
+doc_type: "analysis"
+source_file: "lectura-politica-mayo-junio-2025.md"
+source_id: "bf611263-6d1e-4d55-9d1c-d43536fd35a5"
+summary_day: "2025-11-05"
+confidence: 4
+status: "curated"
+area: "diagnostico"
+---
+## Síntesis
 
 Análisis de la dinámica organizativa y recomendaciones tácticas para mejorar la efectividad de una agrupación política, basado en la lectura de tramos específicos de actividades. Se identifican fortalezas, riesgos y prácticas inmediatas para optimizar la operativa y la comunicación interna.
 
-## Actions
+## Acciones sugeridas
 
-redactar la plantilla post-acción, generar un checklist de roles, o seguir con el screening cronológico
+- redactar la plantilla post-acción, generar un checklist de roles, o seguir con el screening cronológico
 
-## Notes
+## Desarrollo
 
-insight
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762384819625`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:bf611263-6d1e-4d55-9d1c-d43536fd35a5`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:bf611263-6d1e-4d55-9d1c-d43536fd35a5`
-
-```text
 # Resumen rápido y lectura política (tramos ~036–040)
 
-**Ventana temporal detectada (en lo que pude leer):** *desde el 28 de mayo de 2025 hasta el 5 de junio de 2025.* fileciteturn16file11L1-L3 fileciteturn16file12L1-L5
+**Ventana temporal detectada (en lo que pude leer):** *desde el 28 de mayo de 2025 hasta el 5 de junio de 2025.*  
 
-**Nota sobre cobertura / limitaciones:** trabajé con los tramos que subiste y con los archivos que aparecen en los snippets (entre ellos los que muestran actividad de fines de mayo y comienzos de junio de 2025). Si hay algún `part_036.txt` o `part_039.txt` que considerás esencial y no lo estoy citando, decímelo y lo incorporo; mientras tanto me concentro en lo que está visible (part_035–038 y archivos relacionados que referencian el mismo periodo). fileciteturn16file7L2-L9
+**Nota sobre cobertura / limitaciones:** trabajé con los tramos que subiste y con los archivos que aparecen en los snippets (entre ellos los que muestran actividad de fines de mayo y comienzos de junio de 2025). Si hay algún `part_036.txt` o `part_039.txt` que considerás esencial y no lo estoy citando, decímelo y lo incorporo; mientras tanto me concentro en lo que está visible (part_035–038 y archivos relacionados que referencian el mismo periodo). 
 
 ---
 
 ## ¿Qué pasa en estos tramos? — lectura como actor político
 
 1. **Activación de calle con problemas de convocatoria**
- - Hay movilizaciones y eventos donde la presencia de la agrupación es menor a la esperada; los mensajes muestran preocupación por “poca gente” en la columna y por la presencia policial. Eso sugiere desgaste operativa: buena intención de salir a la calle, pero fallas en difusión o en la capacidad de convocar. fileciteturn16file12L2-L7
+ - Hay movilizaciones y eventos donde la presencia de la agrupación es menor a la esperada; los mensajes muestran preocupación por “poca gente” en la columna y por la presencia policial. Eso sugiere desgaste operativa: buena intención de salir a la calle, pero fallas en difusión o en la capacidad de convocar. 
 
 2. **Acción táctica + gestión micro (logística de eventos)**
- - Conversaciones muy prácticas: dónde juntarse, qué llevar (abrigo, yerba), quién llega tarde, quién compra cosas. Ese tono operativo indica que la agrupación funciona mucho por improvisación y redes personales (contacts-on-demand) más que por protocolos estandarizados. fileciteturn16file7L2-L16
+ - Conversaciones muy prácticas: dónde juntarse, qué llevar (abrigo, yerba), quién llega tarde, quién compra cosas. Ese tono operativo indica que la agrupación funciona mucho por improvisación y redes personales (contacts-on-demand) más que por protocolos estandarizados. 
 
 3. **Emergencia de proyectos y comisiones internas**
- - Aparecen iniciativas formales: proyectos de extensión (UBA en acción), propuestas de reforma, designación de representantes para comisiones ad-hoc. Esto muestra un salto de lo meramente militante hacia canales institucionales (comisiones, proyectos con firma docente). Hay intención de “meterse” en la burocracia académica como táctica de influencia. fileciteturn16file11L14-L18 fileciteturn16file12L9-L11
+ - Aparecen iniciativas formales: proyectos de extensión (UBA en acción), propuestas de reforma, designación de representantes para comisiones ad-hoc. Esto muestra un salto de lo meramente militante hacia canales institucionales (comisiones, proyectos con firma docente). Hay intención de “meterse” en la burocracia académica como táctica de influencia.  
 
 4. **Cuerpos colectivos y liderazgo distribuido (pero con nodos claros)**
- - Hay actores recurrentes que toman iniciativa (se nombran Lucia Pedraza, Santi Sosa, Caterina, Axel — aparecen proponiendo preguntas-guía, organizando comisiones o armando grupos). La estructura parece “pluricéfala”: roles de coordinación informal pero con varios nodos de liderazgo perceptibles. fileciteturn16file7L20-L27
+ - Hay actores recurrentes que toman iniciativa (se nombran Lucia Pedraza, Santi Sosa, Caterina, Axel — aparecen proponiendo preguntas-guía, organizando comisiones o armando grupos). La estructura parece “pluricéfala”: roles de coordinación informal pero con varios nodos de liderazgo perceptibles. 
 
 5. **Discusión estratégica y debate sobre rumbo**
- - Se mezclan debates de política general (posicionamientos respecto a actores nacionales) con lo táctico-local (cómo articular asambleas, qué pedir en comisiones). Hay conciencia de oportunidad política, pero también tensiones sobre qué priorizar (movilización vs. institucionalización). fileciteturn16file15L2-L6
+ - Se mezclan debates de política general (posicionamientos respecto a actores nacionales) con lo táctico-local (cómo articular asambleas, qué pedir en comisiones). Hay conciencia de oportunidad política, pero también tensiones sobre qué priorizar (movilización vs. institucionalización). 
 
 6. **Prácticas comunicacionales débiles/heterogéneas**
- - Mensajes muestran asambleas votadas “por unanimidad”, listas de tareas, pero también confusión (“poca información”, “nadie está enterado”). Señal clara de que la comunicación interna y la documentación de acuerdos podrían mejorarse. fileciteturn16file14L16-L21
+ - Mensajes muestran asambleas votadas “por unanimidad”, listas de tareas, pero también confusión (“poca información”, “nadie está enterado”). Señal clara de que la comunicación interna y la documentación de acuerdos podrían mejorarse. 
 
 ---
 
@@ -83,13 +78,13 @@ insight
 
 ## Recomendaciones tácticas inmediatas (prácticas políticas concretas)
 
-1. **Plantilla rápida post-acción (2 minutos):** cada vez que haya una movilización o acto, enviar un breve formulario con: asistencia estimada, problemas encontrados, 3 aprendizajes, 2 follow-ups (quién hace qué esta semana). Esto baja la fricción para aprendizaje y evita repetir errores. *(Simple y procesable.)* fileciteturn16file12L2-L7
+1. **Plantilla rápida post-acción (2 minutos):** cada vez que haya una movilización o acto, enviar un breve formulario con: asistencia estimada, problemas encontrados, 3 aprendizajes, 2 follow-ups (quién hace qué esta semana). Esto baja la fricción para aprendizaje y evita repetir errores. *(Simple y procesable.)* 
 
-2. **Asignar “backup” para roles clave:** para comisiones y representantes, anotar suplentes en el mismo mensaje de designación (evita que una baja de último minuto paralice el trámite). fileciteturn16file11L14-L17
+2. **Asignar “backup” para roles clave:** para comisiones y representantes, anotar suplentes en el mismo mensaje de designación (evita que una baja de último minuto paralice el trámite). 
 
-3. **Calendario público y canal oficial:** mantener una hoja-resumen (o mensaje fijado) con las acciones próximas y responsable; reducir la dispersión entre muchos grupitos. Esto mejora la convocatoria y la confianza para participar. fileciteturn16file7L20-L27
+3. **Calendario público y canal oficial:** mantener una hoja-resumen (o mensaje fijado) con las acciones próximas y responsable; reducir la dispersión entre muchos grupitos. Esto mejora la convocatoria y la confianza para participar. 
 
-4. **Descentralizar tareas logísticas:** delegar checklists (comprar, llevar mate, señalética) a mini-teams con responsabilidad y cierre (evita que todo recaiga en las mismas personas). fileciteturn16file7L2-L16
+4. **Descentralizar tareas logísticas:** delegar checklists (comprar, llevar mate, señalética) a mini-teams con responsabilidad y cierre (evita que todo recaiga en las mismas personas). 
 
 ---
 
@@ -105,4 +100,13 @@ B) genero un **checklist de roles** para usar cuando se designa una comisión (t
 C) sigo con el screening cronológico y te doy un **timeline breve minuto-a-minuto** del tramo 036–040 (si confirmás que quieres que incluya timestamps exactos línea por línea). 
 
 Dime cuál opción preferís (A, B o C) y lo saco en limpio ya.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `lectura-politica-mayo-junio-2025.md`
+- ID de fuente: `bf611263-6d1e-4d55-9d1c-d43536fd35a5`
+- Fecha de resumen: `2025-11-05`
+</details>

@@ -1,35 +1,30 @@
-# Estructura de Roles y Procesos para Organización Efectiva
-
-- message_id: `3df478ce-3368-4c26-9bfb-de360f8b1b98`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: template
-- confidence: 5
-- summary_tags: roles | procesos | organización | efectividad | rituales
-- topics: gestión de equipos | optimización de procesos
-
-## Summary annotation
+---
+title: "Estructura de Roles y Procesos para Organización Efectiva"
+description: "Este mensaje detalla una estructura de roles y procesos para optimizar la organización de un grupo, incluyendo descripciones de roles, entregas mínimas, tiem..."
+tags:
+  - roles
+  - procesos
+  - organización
+  - efectividad
+  - rituales
+doc_type: "guide"
+source_file: "roles-esenciales-procesos-y-rituales.md"
+source_id: "3df478ce-3368-4c26-9bfb-de360f8b1b98"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "carriles-y-roles"
+---
+## Síntesis
 
 Este mensaje detalla una estructura de roles y procesos para optimizar la organización de un grupo, incluyendo descripciones de roles, entregas mínimas, tiempos estimados y un conjunto de rituales para mejorar la efectividad operativa.
 
-## Actions
+## Acciones sugeridas
 
-Create a structured Drive folder with the proposed organization or fill out the `Estado_semana` with selected priorities.
+- Create a structured Drive folder with the proposed organization or fill out the `Estado_semana` with selected priorities.
 
-## Notes
+## Desarrollo
 
-plan
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762385997177`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:3df478ce-3368-4c26-9bfb-de360f8b1b98`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:3df478ce-3368-4c26-9bfb-de360f8b1b98`
-
-```text
 Perfecto. Voy al punto: qué roles necesitan, cómo dividir el trabajo de forma no burocrática y un conjunto de procesos/rituales concretos para que dejen de ir siempre 2 pasos atrás. Nada teórico: todo listo para pegar en el chat y empezar a usar hoy.
 
 # Roles esenciales (mínimo viable)
@@ -159,62 +154,13 @@ Medí cosas sencillas:
 # Plantillas listas para pegar (usa YA)
 
 A) Mensaje para asignar roles (pegar en chat)
-```
-PROPUESTA RÁPIDA: asignamos roles para las próximas 2 semanas.
-Coordinador general: NOMBRE (backup: NOMBRE)
-Logística: NOMBRE (backup: NOMBRE)
-Movilización: NOMBRE (backup: NOMBRE)
-Comunicación: NOMBRE (backup: NOMBRE)
-Finanzas: NOMBRE (backup: NOMBRE)
-Si aceptás el rol, respondé "ASIGNO". Plazo: 14 días. Entrega mínima: lista de tareas y 1 HECHO al cierre.
-```
 
-B) Confirmación día-D (48/24/2h) (copiar/pegar)
-```
-CONFIRMACIÓN ACCIÓN — [NOMBRE ACCIÓN]
-PUNTO: [lugar + map link]
-HORA CONCENTRACIÓN: [hh:mm] — SALIDA [hh:mm]
-RESPONSABLE LOGÍSTICA: [nombre + tel]
-RESPONSABLE MOVILIZACIÓN: [nombre + tel]
-RESPONSABLE COMUNICACIÓN: [nombre]
-RESPONDEN: VOY / NO / TAL_VEZ (solo estas 3)
-```
+## Notas de fuente
 
-C) Post-action 3-líneas (pegar justo después)
-```
-POST-ACTION [FECHA]
-Qué salió bien: 
-Qué falló:
-Próximo paso (responsable — plazo):
-```
+<details>
+<summary>Ver procedencia</summary>
 
-D) Plantilla asamblea 60' (pegar como evento)
-```
-REUNIÓN 60' — [FECHA]
-1) Objetivo (2 min)
-2) Estado operativo (10 min)
-3) Comunicaciones / Multimedia (10 min)
-4) Decisión estratégica (20 min — propuesta, discusión, voto)
-5) Asignaciones y cierre (18 min — responsable, plazo, HECHO)
-```
-
-# Cómo empezar hoy (plan de 2 semanas, mínimo esfuerzo)
-- Día 0: publicar mensaje de asignación de roles (plantilla A). 
-- Días 1–2: completar `Estado_semana` con 2 prioridades y responsables. 
-- Días 3–14: ejecutar rituales (48/24/2h + post-action). Evaluar métricas al día 14. 
-- Resultado esperado: menos improvisación, decisiones más trazables, menos dependencia de memoria individual.
-
-# Reglas que exigírselas al grupo (para cortar la indisciplina)
-1) No más de 2 roles por persona. 
-2) Si no hay HECHO, la tarea se reasigna tras 72 h. 
-3) Un comunicado oficial por acción (si el vocero no lo saca en 30', lo publica la coordinación).
-
-# Última advertencia útil
-No busquen procesos perfectos; busquen **rituales que se cumplan**. La mayor parte de los grupos falla porque quiere 20 plantillas diferentes. Ustedes necesitan 3 reglas claras, 5 roles cubiertos, y el HECHO como ritual. Con eso se transforma la energía en resultados repetibles.
-
-Si querés, armo ahora mismo:
-- la carpeta Drive con estructura (markdown para pegar como README), 
-- o el `Estado_semana` ya relleno con las 2 prioridades que vos elijas. 
-
-Dime cuál preferís y lo genero (listo para pegar).
-```
+- Archivo original: `roles-esenciales-procesos-y-rituales.md`
+- ID de fuente: `3df478ce-3368-4c26-9bfb-de360f8b1b98`
+- Fecha de resumen: `2025-11-05`
+</details>

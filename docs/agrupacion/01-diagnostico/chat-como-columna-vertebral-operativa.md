@@ -1,35 +1,31 @@
-# Análisis de Chat de Agrupación Política
-
-- message_id: `c51a3d2a-9d12-4b89-b834-4981c31d9bfd`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: template
-- confidence: 5
-- summary_tags: análisis | organización | política | comunicación | riesgos | oportunidades
-- topics: dinámicas grupales | práctica política | coordinación
-
-## Summary annotation
+---
+title: "Análisis de Chat de Agrupación Política"
+description: "El mensaje presenta un análisis detallado de la dinámica operativa y política de un grupo a través de su chat, identificando roles, temas recurrentes, riesgo..."
+tags:
+  - análisis
+  - organización
+  - política
+  - comunicación
+  - riesgos
+  - oportunidades
+doc_type: "analysis"
+source_file: "chat-como-columna-vertebral-operativa.md"
+source_id: "c51a3d2a-9d12-4b89-b834-4981c31d9bfd"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "diagnostico"
+---
+## Síntesis
 
 El mensaje presenta un análisis detallado de la dinámica operativa y política de un grupo a través de su chat, identificando roles, temas recurrentes, riesgos y oportunidades para mejorar la organización y efectividad del grupo.
 
-## Actions
+## Acciones sugeridas
 
-1. Publish a template message for operational requests in the chat. 2. Ask admins to create a shared document for actions and responsibilities. 3. Schedule a mini-meeting to assign task owners.
+- 1. Publish a template message for operational requests in the chat. 2. Ask admins to create a shared document for actions and responsibilities. 3. Schedule a mini-meeting to assign task owners.
 
-## Notes
+## Desarrollo
 
-insight
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762381446685`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:c51a3d2a-9d12-4b89-b834-4981c31d9bfd`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:c51a3d2a-9d12-4b89-b834-4981c31d9bfd`
-
-```text
 Perfecto — lo leo como texto y saco conclusiones políticas, no estadísticas. Voy a actuar como alguien que escucha el chat de una agrupación y resume **qué está pasando**, **qué roles aparecen**, **qué aprendemos sobre la práctica política del grupo**, **riesgos** y **próximos pasos concretos**. Voy directo.
 
 # Síntesis rápida
@@ -86,4 +82,13 @@ El chat funciona como la columna vertebral operativa del grupo: coordinación de
 Hay evidencia de acción real — eso es lo más valioso. Pero la señal más preocupante es la ausencia de **rutina de cierre**: tareas surgen pero no siempre se cierran con responsable y plazo. Convertir esa fricción mínima en una regla (plantilla de acción + doc compartido) multiplicará la eficacia sin quitar espontaneidad. 
 
 Dime cuál de los entregables quieres primero (plantilla de mensaje, runbook de empadronamiento, o mapa de actores). Lo preparo en forma lista para pegar/usar en el chat.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `chat-como-columna-vertebral-operativa.md`
+- ID de fuente: `c51a3d2a-9d12-4b89-b834-4981c31d9bfd`
+- Fecha de resumen: `2025-11-05`
+</details>

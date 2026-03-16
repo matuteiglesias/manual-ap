@@ -1,35 +1,31 @@
-# Claves de Buenas Prácticas en Datos y Políticas
-
-- message_id: `5845e32e-dd5d-4236-b0f9-41c37b979a85`
-- conversation_id: `690a6b81-7880-832b-99ed-8f4e1a352da7`
-- summary_day: `2025-11-05`
-- category: Data
-- format_type: template
-- confidence: 5
-- summary_tags: participacion | estandarizacion | segregacion | trazabilidad | memoria | catalogacion
-- topics: Buenas Prácticas | Gestión de Datos | Políticas
-
-## Summary annotation
+---
+title: "Claves de Buenas Prácticas en Datos y Políticas"
+description: "Se presentan seis palabras clave que encapsulan principios de buenas prácticas en la gestión de datos y políticas, cada una acompañada de una breve justifica..."
+tags:
+  - participacion
+  - estandarizacion
+  - segregacion
+  - trazabilidad
+  - memoria
+  - catalogacion
+doc_type: "guide"
+source_file: "principios-de-datos-memoria-y-trazabilidad.md"
+source_id: "5845e32e-dd5d-4236-b0f9-41c37b979a85"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "apendices-principios"
+---
+## Síntesis
 
 Se presentan seis palabras clave que encapsulan principios de buenas prácticas en la gestión de datos y políticas, cada una acompañada de una breve justificación sobre su relevancia.
 
-## Actions
+## Acciones sugeridas
 
-Translate the six words into standard tags and provide short usage rules for each tag.
+- Translate the six words into standard tags and provide short usage rules for each tag.
 
-## Notes
+## Desarrollo
 
-insight
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762358068056`
-- event_id: `690a6b81-7880-832b-99ed-8f4e1a352da7:5845e32e-dd5d-4236-b0f9-41c37b979a85`
-- source_uri: `chatgpt:690a6b81-7880-832b-99ed-8f4e1a352da7:5845e32e-dd5d-4236-b0f9-41c37b979a85`
-
-```text
 Perfecto — va una palabra por cada frase, y una línea muy breve justificando por qué esa palabra captura el espíritu en clave de buenas prácticas de datos y políticas:
 
 1. Participación 
@@ -51,4 +47,13 @@ Perfecto — va una palabra por cada frase, y una línea muy breve justificando 
  — Captura la función de hub/index que enlaza artefactos (docs, repositorios) sin duplicarlos, facilitando descubribilidad.
 
 Si querés, traduzco estas seis palabras a etiquetas/tags estándar para la hoja (por ejemplo: `participacion`, `estandarizacion`, `segregacion`, `trazabilidad`, `memoria`, `catalogacion`) y te doy reglas cortas de uso para cada tag (cuándo aplicarlo y ejemplos). ¿Lo preparo?
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `principios-de-datos-memoria-y-trazabilidad.md`
+- ID de fuente: `5845e32e-dd5d-4236-b0f9-41c37b979a85`
+- Fecha de resumen: `2025-11-05`
+</details>

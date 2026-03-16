@@ -1,35 +1,31 @@
-# Message Processing Script for CSV Export
-
-- message_id: `def45d53-99a4-465a-915b-ab107cdd816e`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Automation
-- format_type: script
-- confidence: 5
-- summary_tags: Python | Pandas | Data Processing | CSV | Automation
-- topics: Data | Automation
-
-## Summary annotation
+---
+title: "Message Processing Script for CSV Export"
+description: "This script processes a DataFrame of messages, cleaning and formatting timestamps, handling NaN values, and chunking the output into CSV files. It includes a..."
+tags:
+  - python
+  - pandas
+  - data processing
+  - csv
+  - automation
+doc_type: "guide"
+source_file: "script-procesamiento-mensajes-y-chunking-csv.md"
+source_id: "def45d53-99a4-465a-915b-ab107cdd816e"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "apendices-metodo"
+---
+## Síntesis
 
 This script processes a DataFrame of messages, cleaning and formatting timestamps, handling NaN values, and chunking the output into CSV files. It includes a demo DataFrame for testing and demonstrates how to save processed data into specified output directories.
 
-## Actions
+## Acciones sugeridas
 
-Consider packaging the script as a reusable tool or library for data processing. Create documentation or a guide for users to implement similar processes.
+- Consider packaging the script as a reusable tool or library for data processing. Create documentation or a guide for users to implement similar processes.
 
-## Notes
+## Desarrollo
 
-script
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762379859335`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:def45d53-99a4-465a-915b-ab107cdd816e`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:def45d53-99a4-465a-915b-ab107cdd816e`
-
-```text
+```python
 # Demo and ready-to-run script: process messages, shorten timestamps, clean NaNs, keep last 4 digits of sender, and write chunked CSVs.
 # If you already have `messags_pp` loaded in your environment, replace the demo creation section with your dataframe variable.
 import os
@@ -92,3 +88,13 @@ for f in files[:20]:
 
 # If you'd like, the script created CSVs under the path(s) above. In your environment, change `out_dir` to './wp_msg_dump' if you want relative paths.
 ```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `script-procesamiento-mensajes-y-chunking-csv.md`
+- ID de fuente: `def45d53-99a4-465a-915b-ab107cdd816e`
+- Fecha de resumen: `2025-11-05`
+</details>

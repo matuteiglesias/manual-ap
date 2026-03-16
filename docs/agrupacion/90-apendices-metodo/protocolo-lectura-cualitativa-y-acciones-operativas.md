@@ -1,35 +1,30 @@
-# Protocolo de Lectura Cualitativa y Acciones Operativas
-
-- message_id: `918abd10-cbd5-4ca2-bd1f-1188870c85b1`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: workflow
-- confidence: 5
-- summary_tags: lectura cualitativa | análisis de mensajes | intervenciones | comunicación | colaboración
-- topics: análisis de datos | comunicación efectiva | gestión de equipos
-
-## Summary annotation
+---
+title: "Protocolo de Lectura Cualitativa y Acciones Operativas"
+description: "El mensaje describe un enfoque cualitativo para leer y analizar mensajes en un contexto colaborativo, estableciendo un protocolo de lectura, hipótesis sobre ..."
+tags:
+  - lectura cualitativa
+  - análisis de mensajes
+  - intervenciones
+  - comunicación
+  - colaboración
+doc_type: "guide"
+source_file: "protocolo-lectura-cualitativa-y-acciones-operativas.md"
+source_id: "918abd10-cbd5-4ca2-bd1f-1188870c85b1"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "apendices-metodo"
+---
+## Síntesis
 
 El mensaje describe un enfoque cualitativo para leer y analizar mensajes en un contexto colaborativo, estableciendo un protocolo de lectura, hipótesis sobre el contenido esperado, y propuestas de intervención para mejorar la comunicación y la efectividad del grupo.
 
-## Actions
+## Acciones sugeridas
 
-Copy and paste 15-20 messages from segments 7-10 for analysis.
+- Copy and paste 15-20 messages from segments 7-10 for analysis.
 
-## Notes
+## Desarrollo
 
-protocolo
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762381835046`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:918abd10-cbd5-4ca2-bd1f-1188870c85b1`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:918abd10-cbd5-4ca2-bd1f-1188870c85b1`
-
-```text
 Perfecto — mantengo la mirada política/psicológica y no voy a convertirlo en estadística. Antes de leer/interpretar quiero ser franco: no voy a ejecutar ningún script ni hacer análisis automático. Si preferís que yo **lea literalmente** los mensajes de los archivos 7–10 como texto, copialos aquí (20–40 mensajes por vez está bien) o pegame los fragmentos más representativos y los leo detenidamente. Mientras tanto —para que no perdamos tiempo— te doy **lo que haré** cuando lea esos mensajes y un **kit de lectura** y acciones operativas que aplicaremos al instante. Así podemos pensar juntos sin código.
 
 # Cómo voy a leer los próximos tramos (mi protocolo cualitativo)
@@ -63,35 +58,13 @@ Perfecto — mantengo la mirada política/psicológica y no voy a convertirlo en
 
 # Intervenciones prácticas que puedo preparar ya (listo para pegar)
 1. **Mensaje para clarificar dueños (cuando veas solicitudes sin responsable):**
-```
-Che — esto está bueno pero para que no se pierda: ¿quién se hace cargo? PROPUESTA: [Nombre] — plazo [día/hora]. Si no está, lo reparto ahora (2 voluntarios, 1 responsable final). ¿Quién toma?
-```
-2. **Mensaje para bajar ruido y priorizar (cuando hay muchos mensajes sociales mezclados con pedidos):**
-```
-Rápido: hacemos 2 pilas: A) tareas que requieren acción esta semana; B) temas sociales/charla. Si tu post es A, poné al inicio “(A)” y una línea con responsable+plazo. Si es B, que quede suelto. Así no se nos pierden las cosas.
-```
-3. **Mensaje para proteger coordinadores (si detectás sobrecarga):**
-```
-Veo que X y Y están asumiendo mucho esta semana. Propongo repartir: X mantiene logística, Y coordina padrón, y 2 voluntarios ayudan con llamadas. ¿Aceptan que haga la lista ahora y repartamos en 10’?
-```
-4. **Mensaje de cierre/ack (para mejorar cultura de reportes):**
-```
-Cuando termines, pone “HECHO: [tarea] — [breve comentario]”. Así cerramos trazabilidad sin reuniones extra.
-```
 
-# Señales de alarma (si aparecen en 7–10, actuar rápido)
-- Mensajes de frustración dirigidos a coordinadores (ej.: “siempre lo mismo, nadie aparece”). 
-- Doble asignación confusa (dos personas creen ser responsables y no coordinan). 
-- Falta de confirmación en tareas clave (padrón, mesas) 72h antes de la acción. 
-Si veo cualquiera de estas trazas, la intervención que funciona mejor es: 1) llamar a una mini-reunión de 15’ por voz, 2) repartir dueños con plazos y 3) pedir “HECHO” al cierre.
+## Notas de fuente
 
-# Pequeño ejercicio que podemos hacer ahora (rápido y útil)
-Pegá 15–20 mensajes del tramo 7–10 (pueden ser solo las líneas que más llaman la atención: convocatorias, respuestas, frases de queja o agradecimiento). Yo los leo en crudo y te devuelvo:
-- 1 párrafo narrativo: “qué cuenta este tramo, en un minuto” 
-- 3 señales (una de oportunidad, una de riesgo, una de táctica) 
-- 3 mensajes listos para pegar (acción, clarificación, gratitud)
+<details>
+<summary>Ver procedencia</summary>
 
----
-
-Si estás de acuerdo, pegá los primeros 15–20 mensajes del tramo 7–10 y empiezo la lectura política ahora mismo — palabra por palabra, sin cálculos, solo interpretación y recomendaciones prácticas.
-```
+- Archivo original: `protocolo-lectura-cualitativa-y-acciones-operativas.md`
+- ID de fuente: `918abd10-cbd5-4ca2-bd1f-1188870c85b1`
+- Fecha de resumen: `2025-11-05`
+</details>

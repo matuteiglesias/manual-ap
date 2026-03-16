@@ -1,35 +1,30 @@
-# Perfil Sintético de Participantes
-
-- message_id: `5ecce5ee-e0e9-444a-aab0-9fc9e5fbdbd1`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: CSV
-- confidence: 5
-- summary_tags: perfil | análisis | coordinación | movilización | responsabilidades
-- topics: gestión de equipos | análisis de roles | optimización de tareas
-
-## Summary annotation
+---
+title: "Perfil Sintético de Participantes"
+description: "Análisis detallado de roles, rasgos de personalidad, niveles de participación y recomendaciones tácticas para cada persona en un contexto de coordinación y m..."
+tags:
+  - perfil
+  - análisis
+  - coordinación
+  - movilización
+  - responsabilidades
+doc_type: "guide"
+source_file: "perfiles-sinteticos-de-participantes.md"
+source_id: "5ecce5ee-e0e9-444a-aab0-9fc9e5fbdbd1"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "actores"
+---
+## Síntesis
 
 Análisis detallado de roles, rasgos de personalidad, niveles de participación y recomendaciones tácticas para cada persona en un contexto de coordinación y movilización, con un enfoque en la optimización de responsabilidades y la mitigación de riesgos.
 
-## Actions
+## Acciones sugeridas
 
-Generate a CSV with columns: nombre, rol_observado, rasgos, nivel_participacion, riesgo, sugerencia_tactica, contacto_sugerido.
+- Generate a CSV with columns: nombre, rol_observado, rasgos, nivel_participacion, riesgo, sugerencia_tactica, contacto_sugerido.
 
-## Notes
+## Desarrollo
 
-análisis
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762385517423`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:5ecce5ee-e0e9-444a-aab0-9fc9e5fbdbd1`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:5ecce5ee-e0e9-444a-aab0-9fc9e5fbdbd1`
-
-```text
 Perfecto — hago un **perfil sintético, accionable y crítico** de cada persona que listaste: rol observado en los chats, rasgos de personalidad (cómo opera en la práctica), nivel de participación típico, riesgos asociados y una sugerencia concreta de responsabilidad/uso táctico. Lo hago con la frialdad útil: no te digo lo que “debería ser” sino lo que **hace** y cómo aprovecharlo o contenerlo.
 
 ---
@@ -196,4 +191,13 @@ Perfecto — hago un **perfil sintético, accionable y crítico** de cada person
 ---
 
 Si querés, lo dejo en un **CSV** listo para subir: columnas = `nombre, rol_observado, rasgos, nivel_participacion, riesgo, sugerencia_tactica, contacto_sugerido`. Lo genero y te lo doy listo para pegar/descargar — decime y lo fabrico ahora mismo.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `perfiles-sinteticos-de-participantes.md`
+- ID de fuente: `5ecce5ee-e0e9-444a-aab0-9fc9e5fbdbd1`
+- Fecha de resumen: `2025-11-05`
+</details>

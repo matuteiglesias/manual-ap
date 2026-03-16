@@ -1,35 +1,30 @@
-# Análisis cualitativo de interacciones en chat político
-
-- message_id: `ce41c68d-d1d1-457e-9087-cbe3c9548fea`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: report
-- confidence: 5
-- summary_tags: análisis cualitativo | dinámicas de grupo | prácticas políticas | narrativas | oportunidades
-- topics: análisis político | comunicación | gestión de grupos
-
-## Summary annotation
+---
+title: "Análisis cualitativo de interacciones en chat político"
+description: "Se presenta un diagnóstico cualitativo sobre las interacciones en un chat político, abordando aspectos como la dinámica operativa, roles de los participantes..."
+tags:
+  - análisis cualitativo
+  - dinámicas de grupo
+  - prácticas políticas
+  - narrativas
+  - oportunidades
+doc_type: "analysis"
+source_file: "diagnostico-cualitativo-evolucion-por-lotes.md"
+source_id: "ce41c68d-d1d1-457e-9087-cbe3c9548fea"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "diagnostico"
+---
+## Síntesis
 
 Se presenta un diagnóstico cualitativo sobre las interacciones en un chat político, abordando aspectos como la dinámica operativa, roles de los participantes, narrativas emergentes, tensiones, oportunidades y acciones inmediatas.
 
-## Actions
+## Acciones sugeridas
 
-prepare a map of actors, mini-runbook of empadronamiento in Google Doc format, or a simple task board template
+- prepare a map of actors, mini-runbook of empadronamiento in Google Doc format, or a simple task board template
 
-## Notes
+## Desarrollo
 
-diagnóstico
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762381596011`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:ce41c68d-d1d1-457e-9087-cbe3c9548fea`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:ce41c68d-d1d1-457e-9087-cbe3c9548fea`
-
-```text
 Perfecto — ya cargué las seis partes (1→6) y revisé su contenido como texto. No hice ningún análisis estadístico; leí los mensajes como un observador político y social. Abajo te entrego un diagnóstico cualitativo siguiendo la mirada que querés: análisis político, psicológico, dinámicas de grupo y prácticas políticas. Lo dividí en: (A) lectura general y evolución por lotes, (B) roles y núcleos humanos, (C) narrativas que emergen, (D) tensiones y riesgos implícitos, (E) señales de oportunidad y palancas, y (F) acciones concretas e inmediatas (plantillas y pequeños cambios de práctica que podés pegar en el chat). Voy directo, sin números.
 
 # A. Lectura general y evolución (qué veo al pasar por los archivos 1–6)
@@ -69,35 +64,13 @@ Psicológicamente: la cultura parece orientada a la **acción comunitaria**, con
 
 # F. Acciones inmediatas (pegables al chat — copia/pega)
 1) **Plantilla de llamada a acción (pegala como mensaje cuando pidas algo):**
-```
-ACCION: [breve descripción de la tarea]
-RESPONSABLE: [Nombre]
-PLAZO: [fecha o "fin de semana"]
-ENTREGA: [cómo reporta, p. ej. "mensaje en este chat" o "doc link"]
-PRIORIDAD: [alta/media/baja]
-```
-— Usala para cualquier pedido que requiera seguimiento. No es burocracia: es claridad.
 
-2) **Mensaje de bienvenida automático para nuevos (cópialo cuando veas un nuevo integrante):**
-```
-¡Bienvenido/a, [nombre]! Gracias por sumarte. Si querés, podés ayudar esta semana en: 1) empadronar a un contacto (te doy el link) 2) sumarte a la logística del próximo encuentro (30') 3) compartir el evento en tu red. ¿Cuál te copa más? 
-Si preferís leer rápido: link de inicio → [link al doc único].
-```
+## Notas de fuente
 
-3) **Mini-runbook de empadronamiento (1 párrafo listo para pegar):**
-```
-RUNBOOK RÁPIDO — Empadronamiento
-Objetivo: recolectar/confirmar datos de x personas para [fecha]. Pasos: 1) Abrir el padrón (link) y marcar contacto asignado. 2) Confirmar responsable por lote (ej. 50 personas). 3) Realizar convocatoria telefónica o por mensaje con script corto (p.ej. saludo+solicitud). 4) Subir resultado al doc en la fila correspondiente. Responsable: [nombre]. Tiempo estimado: 2 horas por lote de 50. Reporte: subir CSV/actualizar doc y decir "HECHO" en el chat.
-```
+<details>
+<summary>Ver procedencia</summary>
 
-4) **Ritual semanal (mensaje para proponer):**
-```
-Propuesta: cada lunes 20' (19:30) check-in breve: 1) qué quedó hecho 2) qué bloquea 3) qué asignamos esta semana. Propongo hacerlo por voz para ahorrar ida y vuelta. ¿Les sirve?
-```
-
-# G. Siguiente paso que puedo hacer ahora
-- Puedo preparar: a) un **mapa de actores** (lista de personas con funciones percibidas, breve frase sobre su estilo y recomendaciones para cada una), b) el **mini-runbook** de empadronamiento en formato Google-Doc-ready (texto + checklist), o c) una **plantilla de tablero** (tabla mínima: tarea / responsable / plazo / estado) para pegar en Drive o en una nota compartida. 
-- Dijiste que me pasarás de a 10 archivos; ya tengo 6 cargados. Cuando quieras, seguí subiendo los próximos 4 (o 10) y después te doy: 1) un mapa de actores extraído cualitativamente de los mensajes nuevos y 2) una narrativa sobre la evolución en el tiempo (cómo cambian los temas, qué se consolida).
-
-Decime cuál entregable querés ahora (mapa de actores / runbook completo / tablero simple) y lo preparo para pegar al chat del grupo. También puedo generar las plantillas en texto listo para copiar.
-```
+- Archivo original: `diagnostico-cualitativo-evolucion-por-lotes.md`
+- ID de fuente: `ce41c68d-d1d1-457e-9087-cbe3c9548fea`
+- Fecha de resumen: `2025-11-05`
+</details>

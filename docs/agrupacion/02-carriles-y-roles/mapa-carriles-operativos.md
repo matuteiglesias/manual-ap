@@ -1,35 +1,30 @@
-# Mapa de Trabajo: Carriles Operativos
-
-- message_id: `ea781727-c648-47c6-b868-2d9ea7b503ac`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: template
-- confidence: 5
-- summary_tags: carriles operativos | gestión de proyectos | organización | eficiencia | trabajo colaborativo
-- topics: gestión | estrategia | operaciones
-
-## Summary annotation
+---
+title: "Mapa de Trabajo: Carriles Operativos"
+description: "Este documento presenta un mapa de trabajo estructurado en 12 carriles operativos, cada uno con objetivos claros, salidas mínimas y ritmos de operación, dise..."
+tags:
+  - carriles operativos
+  - gestión de proyectos
+  - organización
+  - eficiencia
+  - trabajo colaborativo
+doc_type: "guide"
+source_file: "mapa-carriles-operativos.md"
+source_id: "ea781727-c648-47c6-b868-2d9ea7b503ac"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "carriles-y-roles"
+---
+## Síntesis
 
 Este documento presenta un mapa de trabajo estructurado en 12 carriles operativos, cada uno con objetivos claros, salidas mínimas y ritmos de operación, diseñado para mejorar la eficiencia y la organización en un entorno de trabajo colaborativo.
 
-## Actions
+## Acciones sugeridas
 
-Nombrar due-owners para 3 carriles críticos, publicar Estado_semana con 2 prioridades claras, empezar ritual post-action para la próxima salida.
+- Nombrar due-owners para 3 carriles críticos, publicar Estado_semana con 2 prioridades claras, empezar ritual post-action para la próxima salida.
 
-## Notes
+## Desarrollo
 
-mapa de trabajo
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762386769272`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:ea781727-c648-47c6-b868-2d9ea7b503ac`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:ea781727-c648-47c6-b868-2d9ea7b503ac`
-
-```text
 Perfecto — lo pruno, lo dejo en carriles (áreas de trabajo continuas, no listados exhaustivos) y te doy para cada una lo esencial: qué cubre, salidas mínimas y ritmo operativo. Esto es lo que conviene usar como **mapa de trabajo**: cada carril recibe tareas a lo largo del tiempo y tiene dueños rotativos. Nada de microscopio: sólo lo que hay que vigilar semana a semana.
 
 # Carriles operativos (versión pruneada)
@@ -115,18 +110,13 @@ Perfecto — lo pruno, lo dejo en carriles (áreas de trabajo continuas, no list
 ---
 
 # Mensaje corto para proponer el cambio (pegalo en el chat)
-```
-PROPUESTA PRÁCTICA: organizamos por CARRILES (12) para dejar de correr atrás. Tomamos 3 prioritarios ahora: Operaciones, Comunicación, Gestión Institucional. 
-Propuesta: asignen responsable + backup por 2 semanas. Si aceptás el rol, respondé "ASIGNO". 
-Domingo publicamos Estado_semana con 2 prioridades. 
-Objetivo: menos improvisación, más resultados.
-```
 
----
+## Notas de fuente
 
-Eso es: un mapa compacto, operativo y pensado para usarse como **carriles de trabajo**. Si querés hago ahora dos cosas rápidas: 
-A) propongo 3 nombres tentativos para due-owners (basado en lo que te he leído antes), o 
-B) creo el `Estado_semana` inicial con 2 prioridades para pegar en el chat. 
+<details>
+<summary>Ver procedencia</summary>
 
-Decime A o B y lo fabrico ya.
-```
+- Archivo original: `mapa-carriles-operativos.md`
+- ID de fuente: `ea781727-c648-47c6-b868-2d9ea7b503ac`
+- Fecha de resumen: `2025-11-05`
+</details>

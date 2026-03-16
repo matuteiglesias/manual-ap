@@ -1,35 +1,30 @@
-# Public Narrative & Engagement Planning Session
-
-- message_id: `6c2876d9-09fc-4a93-939d-0fff03927142`
-- conversation_id: `690b7f85-0b08-832c-b179-7aa7db54ebf5`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: template
-- confidence: 4
-- summary_tags: public engagement | planning | communication | calendar | messaging
-- topics: project management | public relations | event planning
-
-## Summary annotation
+---
+title: "Public Narrative & Engagement Planning Session"
+description: "This session outlines a structured approach to creating a public engagement plan, including a 60-day event calendar, messaging pillars, and specific tasks wi..."
+tags:
+  - public engagement
+  - planning
+  - communication
+  - calendar
+  - messaging
+doc_type: "guide"
+source_file: "plan-narrativa-publica-y-engagement-60-dias.md"
+source_id: "6c2876d9-09fc-4a93-939d-0fff03927142"
+summary_day: "2025-11-05"
+confidence: 4
+status: "curated"
+area: "comunicacion-y-narrativa"
+---
+## Síntesis
 
 This session outlines a structured approach to creating a public engagement plan, including a 60-day event calendar, messaging pillars, and specific tasks with owners to enhance visibility and collaboration opportunities.
 
-## Actions
+## Acciones sugeridas
 
-Generate the 60-day calendar as CSV or draft 3 full Twitter thread outlines and a 2-slide summary deck.
+- Generate the 60-day calendar as CSV or draft 3 full Twitter thread outlines and a 2-slide summary deck.
 
-## Notes
+## Desarrollo
 
-session plan
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762361246342`
-- event_id: `690b7f85-0b08-832c-b179-7aa7db54ebf5:6c2876d9-09fc-4a93-939d-0fff03927142`
-- source_uri: `chatgpt:690b7f85-0b08-832c-b179-7aa7db54ebf5:6c2876d9-09fc-4a93-939d-0fff03927142`
-
-```text
 Let’s examine this item and turn the touchpoint into a tightly productive session you can close today.
 
 # Quick read, parsed
@@ -95,4 +90,13 @@ A. Generate the 60-day calendar as CSV ready to paste into your public_engagemen
 B. Draft 3 full Twitter thread outlines and a 2-slide summary deck as markdown slide bullets.
 
 Tell me which output you want now. If you don’t pick, I will default to producing the CSV calendar and the 3 messaging pillars in the next reply.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `plan-narrativa-publica-y-engagement-60-dias.md`
+- ID de fuente: `6c2876d9-09fc-4a93-939d-0fff03927142`
+- Fecha de resumen: `2025-11-05`
+</details>

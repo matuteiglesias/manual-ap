@@ -1,35 +1,32 @@
-# Análisis del Grupo Político Universitario
-
-- message_id: `6cb5ba78-cb94-4889-8670-f777155107da`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: package
-- confidence: 5
-- summary_tags: análisis | grupo político | universitario | militancia | gestión
-- topics: política | activismo | organización
-
-## Summary annotation
+---
+title: "Análisis del Grupo Político Universitario"
+description: "Un análisis detallado sobre la identidad, prácticas, fortalezas, debilidades y recomendaciones para un grupo político universitario, destacando su enfoque pr..."
+tags:
+  - análisis
+  - grupo político
+  - universitario
+  - militancia
+  - gestión
+doc_type: "analysis"
+source_file: "identidad-del-grupo-y-modo-de-funcionamiento.md"
+source_id: "6cb5ba78-cb94-4889-8670-f777155107da"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "diagnostico"
+---
+## Síntesis
 
 Un análisis detallado sobre la identidad, prácticas, fortalezas, debilidades y recomendaciones para un grupo político universitario, destacando su enfoque pragmático y relacional en la militancia y la gestión institucional.
 
-## Actions
+## Acciones sugeridas
 
-Create a short package for the group including: 1) 'Who we are' text for the website, 2) Three rules and templates for chat, 3) Immediate assignment proposal (Eze: scholarships table; Spokesperson: X; Guards: calendar).
+- Create a short package for the group including: 1) 'Who we are' text for the website, 2) Three rules and templates for chat, 3) Immediate assignment proposal (Eze: scholarships table
+- Spokesperson: X
+- Guards: calendar).
 
-## Notes
+## Desarrollo
 
-insight
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762383561700`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:6cb5ba78-cb94-4889-8670-f777155107da`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:6cb5ba78-cb94-4889-8670-f777155107da`
-
-```text
 Perfecto — voy al punto. Esto es lo que, después de leer los tramos que me diste y mirar la dinámica completa, soy capaz de decir con claridad sobre **qué es su grupo** y **cómo funciona**. Lo digo sin edulcorar: balanceo reconocimiento de lo que ya hay con límites y sugerencias accionables.
 
 # Quiénes son (identidad)
@@ -92,4 +89,13 @@ Ustedes son una agrupación política de base, con raíces universitarias (mucho
 Tienen lo más difícil: gente, energía y legitimidad en su ecosistema. Lo que falta no es talento ni voluntad, es **tecnología de organización mínima**: tres reglas, dos roles y un doc. Eso transforma el incendio creativo en motor sostenible sin perder alma. Si no lo hacen, la historia que hoy parece ascendente se repetirá en ciclos de pico/caída. Si lo hacen, pueden dejar de ser un colectivo efervescente para ser una fuerza duradera —con la misma calidez y la misma rabia organizada.
 
 Si querés, te lo dejo en un paquete corto para subir al Drive: 1) “Quiénes somos” (texto para la web), 2) 3 reglas + plantillas (mensaje para pegar en el chat), 3) propuesta de asignación inmediata (Eze: mesa de becas; Vocero: X; Guardias: calendario). ¿Querés que arme ese paquete ahora?
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `identidad-del-grupo-y-modo-de-funcionamiento.md`
+- ID de fuente: `6cb5ba78-cb94-4889-8670-f777155107da`
+- Fecha de resumen: `2025-11-05`
+</details>

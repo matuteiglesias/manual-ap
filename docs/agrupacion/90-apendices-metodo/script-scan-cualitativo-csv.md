@@ -1,35 +1,31 @@
-# CSV Data Processing and Summary Generation
-
-- message_id: `1e2cb596-cad7-4b6a-8b19-22a630260968`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Data
-- format_type: script
-- confidence: 4
-- summary_tags: CSV | Data Processing | Pandas | Qualitative Analysis
-- topics: Data | Automation
-
-## Summary annotation
+---
+title: "CSV Data Processing and Summary Generation"
+description: "This script processes uploaded CSV files, performs qualitative scans, and generates summary tables including top tokens, bigrams, and sender statistics, whil..."
+tags:
+  - csv
+  - data processing
+  - pandas
+  - qualitative analysis
+doc_type: "guide"
+source_file: "script-scan-cualitativo-csv.md"
+source_id: "1e2cb596-cad7-4b6a-8b19-22a630260968"
+summary_day: "2025-11-05"
+confidence: 4
+status: "curated"
+area: "apendices-metodo"
+---
+## Síntesis
 
 This script processes uploaded CSV files, performs qualitative scans, and generates summary tables including top tokens, bigrams, and sender statistics, while also displaying relevant dataframes to the user.
 
-## Actions
+## Acciones sugeridas
 
-Implement the CSV loading and analysis code in a data processing pipeline; explore monetization opportunities for CSV analysis tools.
+- Implement the CSV loading and analysis code in a data processing pipeline
+- explore monetization opportunities for CSV analysis tools.
 
-## Notes
+## Desarrollo
 
-script
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762381318885`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:1e2cb596-cad7-4b6a-8b19-22a630260968`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:1e2cb596-cad7-4b6a-8b19-22a630260968`
-
-```text
+```python
 # Loading uploaded CSV chunks, doing a lightweight qualitative scan, and producing summary tables.
 import pandas as pd
 from pathlib import Path
@@ -153,3 +149,13 @@ artifacts = {
 
 artifacts
 ```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `script-scan-cualitativo-csv.md`
+- ID de fuente: `1e2cb596-cad7-4b6a-8b19-22a630260968`
+- Fecha de resumen: `2025-11-05`
+</details>

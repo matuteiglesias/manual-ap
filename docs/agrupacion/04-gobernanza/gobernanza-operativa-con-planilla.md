@@ -1,35 +1,30 @@
-# Reflexión sobre Gobernanza Operativa y Planilla
-
-- message_id: `15c0f9d7-2691-400a-b2ee-022a11a04cf8`
-- conversation_id: `690a6b81-7880-832b-99ed-8f4e1a352da7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: checklist
-- confidence: 5
-- summary_tags: gobernanza | planilla | transparencia | rendición de cuentas | acción inmediata
-- topics: gobernanza | gestión de proyectos | mejora continua
-
-## Summary annotation
+---
+title: "Reflexión sobre Gobernanza Operativa y Planilla"
+description: "Análisis detallado de los beneficios, riesgos y acciones concretas para mejorar la gobernanza operativa a través de una planilla. Incluye conceptos clave, ri..."
+tags:
+  - gobernanza
+  - planilla
+  - transparencia
+  - rendición de cuentas
+  - acción inmediata
+doc_type: "guide"
+source_file: "gobernanza-operativa-con-planilla.md"
+source_id: "15c0f9d7-2691-400a-b2ee-022a11a04cf8"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "gobernanza"
+---
+## Síntesis
 
 Análisis detallado de los beneficios, riesgos y acciones concretas para mejorar la gobernanza operativa a través de una planilla. Incluye conceptos clave, riesgos a considerar, y pasos inmediatos para implementar cambios efectivos.
 
-## Actions
+## Acciones sugeridas
 
-Generate the header text with rules for the spreadsheet or create the three templates (one-pager, 3-line minutes, pilot report) ready for copy-pasting.
+- Generate the header text with rules for the spreadsheet or create the three templates (one-pager, 3-line minutes, pilot report) ready for copy-pasting.
 
-## Notes
+## Desarrollo
 
-insight
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762357447341`
-- event_id: `690a6b81-7880-832b-99ed-8f4e1a352da7:15c0f9d7-2691-400a-b2ee-022a11a04cf8`
-- source_uri: `chatgpt:690a6b81-7880-832b-99ed-8f4e1a352da7:15c0f9d7-2691-400a-b2ee-022a11a04cf8`
-
-```text
 Buena reflexión — vamos a examinarla con calma y sacarle jugo. Primero sintetizo los **conceptos** que condensan los beneficios que listás; después señalo lo que falta (riesgos y huecos prácticos). Termino con 3 acciones concretas y muy concretas que podés hacer ya para que la planilla deje de ser sólo “buena intención” y pase a ser gobernanza operativa.
 
 # Conceptos que sintetizan esos beneficios
@@ -121,4 +116,13 @@ Si querés, ahora mismo:
 - creo las 3 plantillas (one-pager, acta 3-líneas, pilot report) listas para copiar-pegar.
 
 Qué preferís que haga en el siguiente paso: cabecera con reglas (para pegar en la hoja) o las plantillas?
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `gobernanza-operativa-con-planilla.md`
+- ID de fuente: `15c0f9d7-2691-400a-b2ee-022a11a04cf8`
+- Fecha de resumen: `2025-11-05`
+</details>

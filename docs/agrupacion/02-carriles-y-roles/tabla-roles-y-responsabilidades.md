@@ -1,31 +1,27 @@
-# Roles and Responsibilities Overview
-
-- message_id: `ff6bddb8-6b9d-4b21-a501-4581af7e159e`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: table
-- confidence: 5
-- summary_tags: governance | mobilization | communication | operations | roles | responsibilities
-- topics: Organizational Management | Task Management
-
-## Summary annotation
+---
+title: "Roles and Responsibilities Overview"
+description: "This document outlines various aspects of governance, mobilization, communication, and operational tasks within an organization, detailing roles and responsi..."
+tags:
+  - governance
+  - mobilization
+  - communication
+  - operations
+  - roles
+  - responsibilities
+doc_type: "guide"
+source_file: "tabla-roles-y-responsabilidades.md"
+source_id: "ff6bddb8-6b9d-4b21-a501-4581af7e159e"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "carriles-y-roles"
+---
+## Síntesis
 
 This document outlines various aspects of governance, mobilization, communication, and operational tasks within an organization, detailing roles and responsibilities for effective execution.
 
-## Notes
+## Desarrollo
 
-overview
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762387175639`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:ff6bddb8-6b9d-4b21-a501-4581af7e159e`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:ff6bddb8-6b9d-4b21-a501-4581af7e159e`
-
-```text
 ```csv
 "aspecto_amplio","carril_de_trabajo","rol_dueño"
 "Gobernanza","Definición de prioridades quincenales","Coordinador general"
@@ -91,5 +87,13 @@ overview
 "Comunicación visual","Plantillas gráficas y materiales para eventos","Multimedia / Repo"
 "Operación diaria","Calendario semanal (Estado_semana) y fijado en chat","Coordinador general"
 "Legal operativo","Cumplimiento en manejo de datos personales (consentimientos)","Seguridad & Legal"
-```
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `tabla-roles-y-responsabilidades.md`
+- ID de fuente: `ff6bddb8-6b9d-4b21-a501-4581af7e159e`
+- Fecha de resumen: `2025-11-05`
+</details>

@@ -1,35 +1,33 @@
-# Comprehensive Inventory of Group Actors
-
-- message_id: `0af9c596-a296-436a-aee9-fc76303aefe7`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: table
-- confidence: 5
-- summary_tags: inventory | actors | organization | roles | stakeholders | risks
-- topics: group dynamics | organizational structure | stakeholder management
-
-## Summary annotation
+---
+title: "Comprehensive Inventory of Group Actors"
+description: "This message outlines a detailed inventory of all actors related to a group, categorized by internal persons, roles, external organizations, target audiences..."
+tags:
+  - inventory
+  - actors
+  - organization
+  - roles
+  - stakeholders
+  - risks
+doc_type: "guide"
+source_file: "inventario-general-de-actores.md"
+source_id: "0af9c596-a296-436a-aee9-fc76303aefe7"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "actores"
+---
+## Síntesis
 
 This message outlines a detailed inventory of all actors related to a group, categorized by internal persons, roles, external organizations, target audiences, risks, and resources. It offers a structured approach to organizing group dynamics and suggests further tools for operational efficiency.
 
-## Actions
+## Acciones sugeridas
 
-generate a CSV table of actors with contact information, roles, and priorities; create a RACI matrix for critical areas; or prepare a visual map of organizational layers.
+- generate a CSV table of actors with contact information, roles, and priorities
+- create a RACI matrix for critical areas
+- or prepare a visual map of organizational layers.
 
-## Notes
+## Desarrollo
 
-inventory
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762384410314`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:0af9c596-a296-436a-aee9-fc76303aefe7`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:0af9c596-a296-436a-aee9-fc76303aefe7`
-
-```text
 Perfecto — te doy un inventario lo más exhaustivo y ordenado posible de **todos** los actores que aparecen alrededor de la agrupación, dividido por categorías. Lo armé con lo que leí en los tramos que me pasaste: nombres concretos (cuando aparecen), roles internos, organizaciones externas, tipos de interlocutores, públicos, riesgos y recursos. Si falta algo, debería caber en alguna de estas categorías —la idea es que sea un «contenedor» completo y práctico.
 
 Lo entrego en español y categorizado; cada bloque puede expandirse en runbooks, listas de contacto o matrices de responsabilidad si querés.
@@ -201,4 +199,13 @@ Si querés, lo próximo que hago para convertir esto en herramienta útil:
 - 3) o te doy un **mapa visual** (ordenado por capas: núcleo / periférico / aliados / oponentes) en texto para pegar en la wiki del grupo.
 
 Decime cuál querés y lo hago ya — prefiero producir la tabla CSV si querés usarla como base de contactos y asignaciones.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `inventario-general-de-actores.md`
+- ID de fuente: `0af9c596-a296-436a-aee9-fc76303aefe7`
+- Fecha de resumen: `2025-11-05`
+</details>

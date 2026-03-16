@@ -1,35 +1,31 @@
-# Árbol jerárquico exhaustivo para agrupación política
-
-- message_id: `64966d62-7b48-4484-827c-0a4019351d1b`
-- conversation_id: `690bc79c-026c-8332-9ace-87f99ae213f7`
-- summary_day: `2025-11-05`
-- category: Business
-- format_type: document
-- confidence: 5
-- summary_tags: organización política | sistemas | gobernanza | planificación | movilización | comunicación | finanzas | legal
-- topics: organización | gobernanza | estrategia política
-
-## Summary annotation
+---
+title: "Árbol jerárquico exhaustivo para agrupación política"
+description: "Este documento presenta un árbol jerárquico detallado que organiza los procesos, roles y reglas operativas de una agrupación política, diseñado como un mapa ..."
+tags:
+  - organización política
+  - sistemas
+  - gobernanza
+  - planificación
+  - movilización
+  - comunicación
+doc_type: "analysis"
+source_file: "arbol-sistemico-exhaustivo.md"
+source_id: "64966d62-7b48-4484-827c-0a4019351d1b"
+summary_day: "2025-11-05"
+confidence: 5
+status: "curated"
+area: "indice-sistema"
+---
+## Síntesis
 
 Este documento presenta un árbol jerárquico detallado que organiza los procesos, roles y reglas operativas de una agrupación política, diseñado como un mapa de sistemas completo y recursivo.
 
-## Actions
+## Acciones sugeridas
 
-Convert the index into a navigable document, generate a minimum library of templates, or map responsibilities for each section.
+- Convert the index into a navigable document, generate a minimum library of templates, or map responsibilities for each section.
 
-## Notes
+## Desarrollo
 
-documento
-
-## Full text
-
-### Chunk 1
-
-- timestamp: `1762383397118`
-- event_id: `690bc79c-026c-8332-9ace-87f99ae213f7:64966d62-7b48-4484-827c-0a4019351d1b`
-- source_uri: `chatgpt:690bc79c-026c-8332-9ace-87f99ae213f7:64966d62-7b48-4484-827c-0a4019351d1b`
-
-```text
 # Árbol jerárquico exhaustivo (y su índice) — todo lo que hace al funcionamiento de la agrupación política
 
 Abordé esto como un *mapa de sistemas*: cada rama está pensada para contener procesos, roles, artefactos y reglas operativas. Si falta algo, debe caber en alguna de las ramas siguientes: están pensadas para ser completas y recursivas (pueden desagregarse en checklists y runbooks).
@@ -228,4 +224,13 @@ Si querés, lo siguiente que puedo hacer por vos es:
 - o mapear quién en tu grupo debería tomar la responsabilidad de cada sección (sugerencia de asignación por nombre).
 
 Decime cuál de esas tres querés ahora y lo fabrico como artefacto listo para usar.
-```
+
+## Notas de fuente
+
+<details>
+<summary>Ver procedencia</summary>
+
+- Archivo original: `arbol-sistemico-exhaustivo.md`
+- ID de fuente: `64966d62-7b48-4484-827c-0a4019351d1b`
+- Fecha de resumen: `2025-11-05`
+</details>
