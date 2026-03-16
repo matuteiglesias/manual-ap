@@ -1,0 +1,10 @@
+{
+  "label": "Por período",
+  "position": 1,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Por período",
+    "description": "Memorias analíticas segmentadas por ventana temporal."
+  }
+}

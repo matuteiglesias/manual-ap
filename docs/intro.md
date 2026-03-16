@@ -1,13 +1,20 @@
 ---
-id: intro
-title: Introducción
-slug: /intro
+title: Centro de documentación
+description: Manual político-operativo con memorias del chat, lecciones, referencia y anexos.
 ---
 
-# Introducción
+Este sitio organiza el conocimiento de la agrupación por **función documental**.
 
-Sitio documental de trabajo.
+## Estructura
 
-Documento sugerido de entrada:
+- **Manual operativo**: diseño de carriles, roles, gobernanza y acuerdos de trabajo.
+- **Memorias del chat**: análisis por período y síntesis de evolución organizativa.
+- **Lecciones**: patrones recurrentes, riesgos y recomendaciones transversales.
+- **Referencia**: actores clave y guías de consulta estable.
+- **Anexos**: método, datos y scripts de soporte técnico.
 
-- [Árbol sistémico exhaustivo](./agrupacion/00-indice-sistema/arbol-sistemico-exhaustivo.md)
+## Estándar editorial
+
+- Prosa institucional en castellano.
+- Metadatos de trazabilidad en frontmatter.
+- Cuerpo sin residuos de ingestión ni marcas conversacionales.
